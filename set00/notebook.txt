@@ -1,0 +1,12 @@
+DATE	WHO	START	STOP	INTERRUPTIONS	QUESTION	TIME ON TASK	   COMMENTS
+							
+6-Sep	MEERA	22:25	23:25	10	           1	             50	           took some time to get my hands on this language, while going through the maretial provided
+6-Sep	MEERA	23:26	23:40	3	           1	             11	           solved faster than the first
+6-sep	MEERA	23:43	0:02	5	           1	             14	           easy one
+7-Sep	MEERA	0:05	0:25	4	           1	             16	           had to check several material inorder to find how to print an error message
+7-Sep	MEERA	0:45	1:10	0	           1	             25	           easy sum but the interruptions caused the dealy
+7-Sep	MEERA	1:15	1:35	0	           1	             20	           did some validation here too for the coefficient 'a' to be positive
+7-Sep	MEERA	2:00	2:20	5	           1	             15	           got confused either to consider a circle with negative, but finally did
+7-Sep	MEERA	11:10	11:42	15	           1		     17	           similar confusion as the previous sum
+7-Sep	MEERA	12:00	1:00	10	           1	             50	           took some time to find out the predicate syntax and got really confused between a remainder and modulo
+7-Sep	MEERA	14:30	15:20	15	           1	             35	           easy one
