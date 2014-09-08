@@ -1,5 +1,13 @@
 DATE	WHO	START	STOP	INTERRUPTIONS	QUESTION	TIME ON TASK	   COMMENTS
-							
+
+6-Sep   MEERA   14:10   14:30                   SIGN-UP 	     20
+						TO CCS	
+6-SEP   MEERA   14:35   14:45                   SIGN-UP 
+						ON PIAZZA	     10
+6-SEP	MEERA	14:46   14:56			INSTALL 	     10
+						RACKET	
+6-SEP   MEERA   15:00   15:12                   INSTALL 	     12
+						GITHUB  			
 6-Sep	MEERA	22:25	23:25	10	           1	             50	           took some time to get my hands on this language, while going through the maretial provided
 6-Sep	MEERA	23:26	23:40	3	           1	             11	           solved faster than the first
 6-sep	MEERA	23:43	0:02	5	           1	             14	           easy one
